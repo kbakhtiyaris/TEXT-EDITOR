@@ -1,4 +1,4 @@
-/*** includes ***/
+/*** includes ***/   // to include directories
 
 #define _DEFAULT_SOURCE   // included them above becoz the header files we are including use the macros to decide what features to dispose
 #define _BSD_SOURCE
